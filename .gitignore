@@ -1,0 +1,7 @@
+__pycache__
+.pytest_cache
+pytest.ini
+venv/*
+.env
+config_*.py
+.DS_Store

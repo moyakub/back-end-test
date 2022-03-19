@@ -1,0 +1,4 @@
+pytest   #python test framwork
+requests #package to call API
+python-dotenv #to access environment variables from .env file
+#python-dateutil #to convert ISO 8601 string to datetime object
