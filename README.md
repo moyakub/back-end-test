@@ -22,6 +22,6 @@
 
 ### New Store Setup When Existing Store Expires ###
 1. Crete a new store
-2. Creat a new admin api clien inside the shop.
+2. Creat a new V2/V3 API Token inside the store.
 3. update `STORE_HASH` and `TOKEN` environment variable
 4. Done
